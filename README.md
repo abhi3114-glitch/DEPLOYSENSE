@@ -4,12 +4,12 @@ DeploySense is an automated deployment proof-of-concept generator that clones Gi
 
 ## Features
 
-- 🚀 Automatic repository cloning and analysis
-- 🔍 Smart language/framework detection (Node.js, Python)
-- 🐳 Auto-generated Dockerfiles
-- 📊 Health checks and load testing
-- 📜 Signed deployment certificates
-- 🎨 Modern React frontend with real-time status updates
+- Automatic repository cloning and analysis
+- Smart language/framework detection (Node.js, Python)
+- Auto-generated Dockerfiles
+- Health checks and load testing
+- Signed deployment certificates
+- Modern React frontend with real-time status updates
 
 ## Architecture
 
@@ -245,14 +245,14 @@ docker-compose restart mongodb
 
 ## Future Enhancements
 
-- [ ] Support for more languages (Go, Rust, Java)
-- [ ] Integration with Render, Railway, Vercel APIs
-- [ ] Advanced load testing scenarios
-- [ ] Security scanning
-- [ ] Performance profiling
-- [ ] Multi-stage Docker builds
-- [ ] Kubernetes deployment configs
-- [ ] Real-time WebSocket updates
+- Support for more languages (Go, Rust, Java)
+- Integration with Render, Railway, Vercel APIs
+- Advanced load testing scenarios
+- Security scanning
+- Performance profiling
+- Multi-stage Docker builds
+- Kubernetes deployment configs
+- Real-time WebSocket updates
 
 ## Contributing
 
@@ -272,4 +272,4 @@ For issues and questions, please open an issue on GitHub.
 
 ---
 
-Built with ❤️ for developers who want to showcase their deployment skills
+Built for developers who want to showcase their deployment skills
