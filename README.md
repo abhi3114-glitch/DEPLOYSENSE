@@ -264,7 +264,7 @@ docker-compose restart mongodb
 
 ## License
 
-MIT License - feel free to use this project for your portfolio!
+MIT License 
 
 ## Support
 
